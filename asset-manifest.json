@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-test/static/css/main.57f14cee.css",
+    "main.js": "/react-test/static/js/main.d0aff8df.js",
+    "static/js/726.2e2e9d47.chunk.js": "/react-test/static/js/726.2e2e9d47.chunk.js",
+    "static/js/787.1388cb7b.chunk.js": "/react-test/static/js/787.1388cb7b.chunk.js",
+    "static/media/MontserratAlternates-Medium.ttf": "/react-test/static/media/MontserratAlternates-Medium.ae41054b33bf901739c8.ttf",
+    "index.html": "/react-test/index.html",
+    "main.57f14cee.css.map": "/react-test/static/css/main.57f14cee.css.map",
+    "main.d0aff8df.js.map": "/react-test/static/js/main.d0aff8df.js.map",
+    "726.2e2e9d47.chunk.js.map": "/react-test/static/js/726.2e2e9d47.chunk.js.map",
+    "787.1388cb7b.chunk.js.map": "/react-test/static/js/787.1388cb7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57f14cee.css",
+    "static/js/main.d0aff8df.js"
+  ]
+}
